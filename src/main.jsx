@@ -5,7 +5,7 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App.jsx";
 import Health from "./health.jsx";
-import Grid from "./Grid.jsx";
+import Grid from "./grid.jsx";
 
 function Home() { return <h1>Home</h1>; }
 function About() { return <h1>About</h1>; }
